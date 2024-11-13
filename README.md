@@ -33,4 +33,5 @@ A passionate Web Developer
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-patel-192ba7310/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/](https://discord.com/users/dhruvipatel_24/))
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhruvinikhilpat1/)
