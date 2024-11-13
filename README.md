@@ -13,7 +13,7 @@ A passionate Web Developer
     <img src="https://streak-stats.demolab.com/?user=dhruvi2403&theme=radical" width="350" height="150" alt="GitHub streak" />
   </div>
 
-### Skills
+### Skills:
 <p>
   <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
@@ -30,5 +30,6 @@ A passionate Web Developer
 </p>
 
 
-### Connect with Me
+### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-patel-192ba7310/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhruvinikhilpat1/)
