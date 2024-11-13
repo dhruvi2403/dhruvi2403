@@ -7,11 +7,11 @@ A passionate Web Developer
 - 📫 Contact me through dhruvinikhilpatel@gmail.com
 <br>
 <div style="display: flex; justify-content: left;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvi2403&layout=compact&theme=radical" width="300" height="150" alt="Top languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dhruvi2403&show_icons=true&theme=radical" width="300" height="150" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvi2403&layout=compact&theme=cobalt" width="300" height="150" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dhruvi2403&show_icons=true&theme=cobalt" width="300" height="150" alt="GitHub stats" />
   </div>
   <div style="display: flex; justify-content: left;">
-    <img src="https://streak-stats.demolab.com/?user=dhruvi2403&theme=radical" width="350" height="150" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com/?user=dhruvi2403&theme=cobalt" width="350" height="150" alt="GitHub streak" />
   </div>
 
 ### Skills:
