@@ -4,6 +4,7 @@ A passionate Web Developer
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web Development projects
 - 🤔 I’m looking for help with Backend and Open Source Contributions
+- 📫 Contact me through dhruvinikhilpatel@gmail.com
 <br>
 <div style="display: flex; justify-content: left;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvi2403&layout=compact&theme=radical" width="300" height="150" alt="Top languages" />
