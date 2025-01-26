@@ -34,6 +34,11 @@ A passionate Web Developer
   <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;"></a>    
 </p>
 
+<!--# Welcome to My Profile 👋-->
+
+![Visitor Count](https://komarev.com/ghpvc/?username=dhruvi2403&color=blue)
+
+I am passionate about open-source and software development!
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-patel-192ba7310/)
