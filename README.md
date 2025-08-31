@@ -1,46 +1,67 @@
-## Hi there 👋 I am Dhruvi Patel, a Computer Science Student
-A passionate Web Developer   
-- 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Web Development projects
-- 🤔 I’m looking for help with Backend and Open Source Contributions
-- 📫 Contact me through dhruvinikhilpatel@gmail.com
-<br>
-<!--<div style="display: flex; justify-content: left;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvi2403&layout=compact&theme=dracula" width="300" height="150" alt="Top languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dhruvi2403&show_icons=true&theme=dracula" width="300" height="150" alt="GitHub stats" />
-  </div>-->
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvi2403&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats%20-%20" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvi2403&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages%20-" height="150" alt="languages graph"  /> 
+## Hi there 👋 I am Dhruvi Patel  
+💻 Computer Science Student | 🌐 Web Developer | 🚀 Hackathon Enthusiast  
+
+I am a Computer Science student passionate about building impactful web applications, exploring AI-powered solutions, and contributing to open-source projects.  
+
+---
+
+### 🔥 About Me
+- 🔭 Currently working on **Frontend Development**  
+- 🌱 Learning **React & Modern Web Development**  
+- 👯 Looking to collaborate on **Web Dev & Open Source projects**  
+- 🤔 Seeking guidance on **Backend & Open Source Contributions**  
+- 📫 Reach me at **dhruvinikhilpatel@gmail.com**  
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvi2403&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvi2403&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
-  <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=dhruvi2403&theme=dracula" width="350" height="150" alt="GitHub streak" />
-  </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dhruvi2403&theme=dracula" height="150" alt="GitHub Streak" />
+</div>
 
-### Skills:
-<p>
-  <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://www.arduino.cc/" rel="nofollow"><img src="https://camo.githubusercontent.com/6fcd1c570f8a902233682fea6938ec8e8a3727080ad41312ce5a39004de43087/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="arduino" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://www.postman.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="max-width: 100%;"></a>    
-  <a href="https://www.cprogramming.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"></a>    
-  <a href="https://git-scm.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;"></a>    
-  <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;"></a>    
-</p>
+---
 
-<!--# Welcome to My Profile 👋
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff&style=flat)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dhruvi2403&color=blue)
+---
 
-I am passionate about open-source and software development!-->
+### 🚀 Featured Projects
+- [**MindNest**](https://github.com/dhruvi2403/mindnest) 🧠 – A mental health wellness & CBT assistant (MERN + Python).  
+- [**KisanSetu**](https://github.com/dhruvi2403/kisansetu) 🌾 – Farmer-to-consumer marketplace with QR-based organic verification.  
+- [**AI Retail Dashboard**](https://github.com/dhruvi2403/fintech-dashboard) 📊 – AI-powered financial advisory dashboard.  
 
-### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-patel-192ba7310/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dhruvipatel_24/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhruvinikhilpat1/)
+---
+
+### 🏆 Achievements
+- 🏅 Top 25 Finalist among 100+ teams in a **FinTech Hackathon**  
+- 💡 Built an **AI-powered financial advisory dashboard** in 36 hours  
+- 🎯 Developed **KisanSetu** at HackNUthon 6.0 (48 hours, farmer-to-consumer marketplace)  
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-patel-192ba7310/)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dhruvipatel_24/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhruvinikhilpat1/)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhruvi2403&color=blue)
+
+> *"Code is not just about solving problems, it’s about creating impact."*  
